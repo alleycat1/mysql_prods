@@ -1,0 +1,117 @@
+MySQL Server 8.4.2 for Linux ARM 64-bit
+		V1044478-01.zip		MySQL Commercial Server 8.4.2 TAR for Generic Linux (glibc2.17) ARM (64bit), 507.1 MB
+		V1044477-01.zip		MySQL Commercial Server 8.4.2 Minimal TAR for Generic Linux (glibc2.17) ARM (64bit), 93.7 MB
+		V1044481-01.zip		MySQL Commercial Server 8.4.2 TAR for Generic Linux (glibc2.28) ARM (64bit), 516.1 MB
+		V1044492-01.zip		MySQL Commercial Server 8.4.2 RPM for Oracle Linux / RHEL 7 ARM (64bit), 814.0 MB
+		V1044494-01.zip		MySQL Commercial Server 8.4.2 RPM for Oracle Linux / RHEL 8 ARM (64bit), 982.9 MB
+		V1044496-01.zip		MySQL Commercial Server 8.4.2 RPM for Oracle Linux / RHEL 9 ARM (64bit), 950.3 MB
+		V1044507-01.zip		MySQL Database/Components 8.4.2 Yum Repository TAR for Oracle Linux / RHEL 7 ARM (64bit), 852.9 MB
+		V1044509-01.zip		MySQL Database/Components 8.4.2 Yum Repository TAR for Oracle Linux / RHEL 8 ARM (64bit), 482.3 MB
+		V1044511-01.zip		MySQL Database/Components 8.4.2 Yum Repository TAR for Oracle Linux / RHEL 9 ARM (64bit), 437.2 MB
+		V1044626-01.zip		MySQL Commercial Server 8.4.2 Docker Image TAR for Generic Linux ARM (64bit), 166.0 MB
+MySQL Server 8.4.2 for Linux x86-64
+		V1044474-01.zip		MySQL Commercial Server 8.4.2 DEB for Debian 12 Linux x86 (64bit), 1.4 GB
+		V1044475-01.zip		MySQL Commercial Server 8.4.2 DEB for Ubuntu 22.04 Linux x86 (64bit), 1.3 GB
+		V1044476-01.zip		MySQL Commercial Server 8.4.2 DEB for Ubuntu 24.04 Linux x86 (64bit), 1.3 GB
+		V1044479-01.zip		MySQL Commercial Server 8.4.2 Minimal TAR for Generic Linux (glibc2.17) x86 (64bit), 93.4 MB
+		V1044480-01.zip		MySQL Commercial Server 8.4.2 TAR for Generic Linux (glibc2.17) x86 (64bit), 508.1 MB
+		V1044482-01.zip		MySQL Commercial Server 8.4.2 TAR for Generic Linux (glibc2.28) x86 (64bit), 525.3 MB
+		V1044493-01.zip		MySQL Commercial Server 8.4.2 RPM for Oracle Linux / RHEL 7 x86 (64bit), 819.2 MB
+		V1044495-01.zip		MySQL Commercial Server 8.4.2 RPM for Oracle Linux / RHEL 8 x86 (64bit), 1000.0 MB
+		V1044497-01.zip		MySQL Commercial Server 8.4.2 RPM for Oracle Linux / RHEL 9 x86 (64bit), 968.0 MB
+		V1044498-01.zip		MySQL Commercial Server 8.4.2 RPM for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 1.1 GB
+		V1044506-01.zip		MySQL Database/Components 8.4.2 Yum Repository TAR for Oracle Linux / RHEL 7 x86 (64bit), 858.6 MB
+		V1044508-01.zip		MySQL Database/Components 8.4.2 Yum Repository TAR for Oracle Linux / RHEL 8 x86 (64bit), 488.3 MB
+		V1044510-01.zip		MySQL Database/Components 8.4.2 Yum Repository TAR for Oracle Linux / RHEL 9 x86 (64bit), 440.7 MB
+		V1044512-01.zip		MySQL Database/Components 8.4.2 SLES Repository TAR for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 480.6 MB
+		V1044625-01.zip		MySQL Commercial Server 8.4.2 Docker Image TAR for Generic Linux x86 (64bit), 169.3 MB
+MySQL Server 8.4.2 for Microsoft Windows x64 (64-bit)
+		V1044489-01.zip		MySQL Commercial Server 8.4.2 ZIP for Windows x86 (64bit, debug test), 729.0 MB
+		V1044490-01.zip		MySQL Commercial Server 8.4.2 MSI for Windows x86 (64bit), 136.3 MB
+		V1044491-01.zip		MySQL Commercial Server 8.4.2 ZIP for Windows x86 (64bit), 308.3 MB
+MySQL Router 8.4.2 for Linux ARM 64-bit
+		V1044425-01.zip		MySQL Router 8.4.2 RPM for Oracle Linux / RHEL 7 ARM (64bit), 13.6 MB
+		V1044427-01.zip		MySQL Router 8.4.2 RPM for Oracle Linux / RHEL 8 ARM (64bit), 39.8 MB
+		V1044429-01.zip		MySQL Router 8.4.2 RPM for Oracle Linux / RHEL 9 ARM (64bit), 41.8 MB
+		V1044432-01.zip		MySQL Router 8.4.2 Minimal TAR for Generic Linux (glibc2.17) ARM (64bit), 21.7 MB
+		V1044433-01.zip		MySQL Router 8.4.2 TAR for Generic Linux (glibc2.17) ARM (64bit), 18.1 MB
+		V1044436-01.zip		MySQL Router 8.4.2 TAR for Generic Linux (glibc2.28) ARM (64bit), 18.0 MB
+		V1044631-01.zip		MySQL Commercial Router 8.4.2 Docker Image TAR for Generic Linux ARM (64bit), 84.2 MB
+MySQL Router 8.4.2 for Linux x86-64
+		V1044426-01.zip		MySQL Router 8.4.2 RPM for Oracle Linux / RHEL 7 x86 (64bit), 14.3 MB
+		V1044428-01.zip		MySQL Router 8.4.2 RPM for Oracle Linux / RHEL 8 x86 (64bit), 41.3 MB
+		V1044430-01.zip		MySQL Router 8.4.2 RPM for Oracle Linux / RHEL 9 x86 (64bit), 43.6 MB
+		V1044431-01.zip		MySQL Router 8.4.2 RPM for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 50.3 MB
+		V1044434-01.zip		MySQL Router 8.4.2 Minimal TAR for Generic Linux (glibc2.17) x86 (64bit), 22.0 MB
+		V1044435-01.zip		MySQL Router 8.4.2 TAR for Generic Linux (glibc2.17) x86 (64bit), 19.3 MB
+		V1044437-01.zip		MySQL Router 8.4.2 TAR for Generic Linux (glibc2.28) x86 (64bit), 19.3 MB
+		V1044447-01.zip		MySQL Router 8.4.2 DEB for Debian 12 Linux x86 (64bit), 84.3 MB
+		V1044448-01.zip		MySQL Router 8.4.2 DEB for Ubuntu 22.04 Linux x86 (64bit), 86.2 MB
+		V1044449-01.zip		MySQL Router 8.4.2 DEB for Ubuntu 24.04 Linux x86 (64bit), 81.3 MB
+		V1044632-01.zip		MySQL Commercial Router 8.4.2 Docker Image TAR for Generic Linux x86 (64bit), 86.3 MB
+MySQL Router 8.4.2 for Microsoft Windows x64 (64-bit)
+		V1044444-01.zip		MySQL Router 8.4.2 ZIP for Windows x86 (64bit, debug test), 48.4 MB
+		V1044445-01.zip		MySQL Router 8.4.2 MSI for Windows x86 (64bit), 29.9 MB
+		V1044446-01.zip		MySQL Router 8.4.2 ZIP for Windows x86 (64bit), 31.3 MB
+MySQL Enterprise Backup 8.4.2 for Linux ARM 64-bit
+		V1044450-01.zip		MySQL Enterprise Backup 8.4.2 RPM for Oracle Linux / RHEL 7 ARM (64bit), 7.5 MB
+		V1044452-01.zip		MySQL Enterprise Backup 8.4.2 RPM for Oracle Linux / RHEL 8 ARM (64bit), 21.0 MB
+		V1044454-01.zip		MySQL Enterprise Backup 8.4.2 RPM for Oracle Linux / RHEL 9 ARM (64bit), 22.1 MB
+		V1044457-01.zip		MySQL Enterprise Backup 8.4.2 Minimal TAR for Generic Linux (glibc2.17) ARM (64bit), 6.0 MB
+		V1044458-01.zip		MySQL Enterprise Backup 8.4.2 TAR for Generic Linux (glibc2.17) ARM (64bit), 10.3 MB
+		V1044461-01.zip		MySQL Enterprise Backup 8.4.2 TAR for Generic Linux (glibc2.28) ARM (64bit), 10.5 MB
+MySQL Enterprise Backup 8.4.2 for Linux x86-64
+		V1044451-01.zip		MySQL Enterprise Backup 8.4.2 RPM for Oracle Linux / RHEL 7 x86 (64bit), 7.9 MB
+		V1044453-01.zip		MySQL Enterprise Backup 8.4.2 RPM for Oracle Linux / RHEL 8 x86 (64bit), 22.0 MB
+		V1044455-01.zip		MySQL Enterprise Backup 8.4.2 RPM for Oracle Linux / RHEL 9 x86 (64bit), 23.2 MB
+		V1044456-01.zip		MySQL Enterprise Backup 8.4.2 RPM for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 20.9 MB
+		V1044459-01.zip		MySQL Enterprise Backup 8.4.2 Minimal TAR for Generic Linux (glibc2.17) x86 (64bit), 6.4 MB
+		V1044460-01.zip		MySQL Enterprise Backup 8.4.2 TAR for Generic Linux (glibc2.17) x86 (64bit), 10.9 MB
+		V1044462-01.zip		MySQL Enterprise Backup 8.4.2 TAR for Generic Linux (glibc2.28) x86 (64bit), 11.3 MB
+		V1044471-01.zip		MySQL Enterprise Backup 8.4.2 DEB for Debian 12 Linux x86 (64bit), 34.8 MB
+		V1044472-01.zip		MySQL Enterprise Backup 8.4.2 DEB for Ubuntu 22.04 Linux x86 (64bit), 36.2 MB
+		V1044473-01.zip		MySQL Enterprise Backup 8.4.2 DEB for Ubuntu 24.04 Linux x86 (64bit), 34.1 MB
+MySQL Enterprise Backup 8.4.2 for Microsoft Windows x64 (64-bit)
+		V1044469-01.zip		MySQL Enterprise Backup 8.4.2 MSI for Windows x86 (64bit), 15.1 MB
+		V1044470-01.zip		MySQL Enterprise Backup 8.4.2 ZIP for Windows x86 (64bit), 23.1 MB
+MySQL Shell 8.4.1 for Linux ARM 64-bit
+		V1043107-01.zip		MySQL Shell 8.4.1 RPM for Oracle Linux / RHEL 7 ARM (64bit), 560.3 MB
+		V1043109-01.zip		MySQL Shell 8.4.1 RPM for Oracle Linux / RHEL 8 ARM (64bit), 508.8 MB
+		V1043111-01.zip		MySQL Shell 8.4.1 RPM for Oracle Linux / RHEL 9 ARM (64bit), 514.5 MB
+		V1043114-01.zip		MySQL Shell 8.4.1 TAR for Generic Linux (glibc2.17) ARM (64bit), 88.1 MB
+		V1043116-01.zip		MySQL Shell 8.4.1 TAR for Generic Linux (glibc2.28) ARM (64bit), 108.1 MB
+MySQL Shell 8.4.1 for Linux x86-64
+		V1043108-01.zip		MySQL Shell 8.4.1 RPM for Oracle Linux / RHEL 7 x86 (64bit), 553.9 MB
+		V1043110-01.zip		MySQL Shell 8.4.1 RPM for Oracle Linux / RHEL 8 x86 (64bit), 439.4 MB
+		V1043112-01.zip		MySQL Shell 8.4.1 RPM for Oracle Linux / RHEL 9 x86 (64bit), 512.1 MB
+		V1043113-01.zip		MySQL Shell 8.4.1 RPM for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 481.8 MB
+		V1043115-01.zip		MySQL Shell 8.4.1 TAR for Generic Linux (glibc2.17) x86 (64bit), 88.4 MB
+		V1043117-01.zip		MySQL Shell 8.4.1 TAR for Generic Linux (glibc2.28) x86 (64bit), 110.2 MB
+		V1043125-01.zip		MySQL Shell 8.4.1 DEB for Ubuntu 22.04 Linux x86 (64bit), 762.8 MB
+		V1043124-01.zip		MySQL Shell 8.4.1 DEB for Debian 12 Linux x86 (64bit), 756.9 MB
+		V1043126-01.zip		MySQL Shell 8.4.1 DEB for Ubuntu 24.04 Linux x86 (64bit), 733.5 MB
+MySQL Shell 8.4.1 for Microsoft Windows x64 (64-bit)
+		V1043122-01.zip		MySQL Shell 8.4.1 MSI for Windows x86 (64bit), 78.3 MB
+		V1043123-01.zip		MySQL Shell 8.4.1 ZIP for Windows x86 (64bit), 104.3 MB
+MySQL Enterprise Monitor 8.0.39 for Linux x86-64
+		V1044688-01.zip		MySQL Enterprise Monitor Service Manager 8.0.39 for Linux x86 (64-bit), 698.7 MB
+		V1044691-01.zip		MySQL Enterprise Monitor Agent 8.0.39 for Linux x86 (64-bit), 298.3 MB
+MySQL Enterprise Monitor 8.0.39 for Microsoft Windows x64 (64-bit)
+		V1044689-01.zip		MySQL Enterprise Monitor Service Manager 8.0.39 for Windows x86 (64-bit), 547.8 MB
+		V1044692-01.zip		MySQL Enterprise Monitor Agent 8.0.39 for Microsoft Windows x86 (64-bit), 248.0 MB
+MySQL Operator 8.4.1 for Linux ARM 64-bit
+		V1043171-01.zip		MySQL Operator 8.4.1-2.1.4 YAML+HELM for Generic Platform, 46.0 KB
+		V1043173-01.zip		MySQL Operator 8.4.1-2.1.4 Docker Image TAR for Generic Linux ARM (64bit), 174.7 MB
+MySQL Operator 8.4.1 for Linux x86-64
+		V1043171-01.zip		MySQL Operator 8.4.1-2.1.4 YAML+HELM for Generic Platform, 46.0 KB
+		V1043172-01.zip		MySQL Operator 8.4.1-2.1.4 Docker Image TAR for Generic Linux x86 (64bit), 176.8 MB
+MySQL Operator 8.4.1 for Microsoft Windows x64 (64-bit)
+		V1043171-01.zip		MySQL Operator 8.4.1-2.1.4 YAML+HELM for Generic Platform, 46.0 KB
+Enterprise Manager for MySQL Database 13.5.1.0.0 for Linux ARM 64-bit
+		V1021772-01.zip		Enterprise Manager for MySQL Database 13.5.1.0.0, 101.5 MB
+Enterprise Manager for MySQL Database 13.5.1.0.0 for Linux x86-64
+		V1021772-01.zip		Enterprise Manager for MySQL Database 13.5.1.0.0, 101.5 MB
+Enterprise Manager for MySQL Database 13.5.1.0.0 for Microsoft Windows x64 (64-bit)
+		V1021772-01.zip		Enterprise Manager for MySQL Database 13.5.1.0.0, 101.5 MB
+
+Total 91 distinct files		Total Size 27.6 GB
